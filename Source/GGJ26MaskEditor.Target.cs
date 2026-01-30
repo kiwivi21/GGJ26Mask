@@ -8,8 +8,8 @@ public class GGJ26MaskEditorTarget : TargetRules
 	public GGJ26MaskEditorTarget(TargetInfo Target) : base(Target)
 	{
 		Type = TargetType.Editor;
-		DefaultBuildSettings = BuildSettingsVersion.V6;
-		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_7;
+		DefaultBuildSettings = BuildSettingsVersion.V5;
+		IncludeOrderVersion = EngineIncludeOrderVersion.Unreal5_5;
 		ExtraModuleNames.Add("GGJ26Mask");
 	}
 }

@@ -6,10 +6,7 @@
 #include "GameFramework/GameModeBase.h"
 #include "GGJ26MaskGameMode.generated.h"
 
-/**
- *  Simple GameMode for a first person game
- */
-UCLASS(abstract)
+UCLASS(minimalapi)
 class AGGJ26MaskGameMode : public AGameModeBase
 {
 	GENERATED_BODY()
