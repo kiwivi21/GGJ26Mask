@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Config">
+      <UniqueIdentifier>{FA535FFB-25E1-3D20-B416-52F9BE21E06E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\GGJ26Mask.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{F31BBDD1-B3E8-3BCC-9652-680E16935819}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ26Mask.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GGJ26MaskEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Source\GGJ26Mask">
+      <UniqueIdentifier>{9FBEFD0F-F019-3718-892E-05720098981E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GGJ26Mask\GGJ26Mask.Build.cs">
+      <Filter>Source\GGJ26Mask</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GGJ26Mask\GGJ26Mask.cpp">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\GGJ26Mask.h">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\GGJ26MaskCameraManager.cpp">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\GGJ26MaskCameraManager.h">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\GGJ26MaskCharacter.cpp">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\GGJ26MaskCharacter.h">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\GGJ26MaskGameMode.cpp">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\GGJ26MaskGameMode.h">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\GGJ26MaskPlayerController.cpp">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\GGJ26MaskPlayerController.h">
+      <Filter>Source\GGJ26Mask</Filter>
+    </ClInclude>
+    <Filter Include="Source\GGJ26Mask\Variant_Horror">
+      <UniqueIdentifier>{B166E31F-2C82-35C5-A69D-BA30D0764FBF}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Horror\HorrorCharacter.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Horror\HorrorCharacter.h">
+      <Filter>Source\GGJ26Mask\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Horror\HorrorGameMode.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Horror\HorrorGameMode.h">
+      <Filter>Source\GGJ26Mask\Variant_Horror</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Horror\HorrorPlayerController.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Horror</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Horror\HorrorPlayerController.h">
+      <Filter>Source\GGJ26Mask\Variant_Horror</Filter>
+    </ClInclude>
+    <Filter Include="Source\GGJ26Mask\Variant_Horror\UI">
+      <UniqueIdentifier>{9B7408C9-A7CE-3D64-989F-51ABD360F1B0}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Horror\UI\HorrorUI.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Horror\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Horror\UI\HorrorUI.h">
+      <Filter>Source\GGJ26Mask\Variant_Horror\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\GGJ26Mask\Variant_Shooter">
+      <UniqueIdentifier>{A0794236-E013-32FB-B4CD-601AFACDBD1B}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source\GGJ26Mask\Variant_Shooter\AI">
+      <UniqueIdentifier>{423D3BBD-1DDC-3D23-8F98-4CA85DED015D}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\EnvQueryContext_Target.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\EnvQueryContext_Target.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterAIController.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterAIController.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterNPC.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterNPC.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterNPCSpawner.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterNPCSpawner.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterStateTreeUtility.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\AI\ShooterStateTreeUtility.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\AI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\ShooterCharacter.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\ShooterCharacter.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\ShooterGameMode.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\ShooterGameMode.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\ShooterPlayerController.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\ShooterPlayerController.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter</Filter>
+    </ClInclude>
+    <Filter Include="Source\GGJ26Mask\Variant_Shooter\UI">
+      <UniqueIdentifier>{BDDB50E6-9442-3EEC-8D02-AA6919BA5611}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\UI\ShooterBulletCounterUI.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\UI\ShooterBulletCounterUI.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\UI\ShooterUI.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\UI</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\UI\ShooterUI.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\UI</Filter>
+    </ClInclude>
+    <Filter Include="Source\GGJ26Mask\Variant_Shooter\Weapons">
+      <UniqueIdentifier>{C6ED868F-C269-3206-850A-A41D25EA87CB}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterPickup.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterPickup.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterProjectile.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterProjectile.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterWeapon.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterWeapon.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterWeaponHolder.cpp">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GGJ26Mask\Variant_Shooter\Weapons\ShooterWeaponHolder.h">
+      <Filter>Source\GGJ26Mask\Variant_Shooter\Weapons</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
