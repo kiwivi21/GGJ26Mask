@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\jakob\\mask game jam\\globalgamejam\\source\\globalgamejam\\globalgamejam.cpp",
+        "ProvidedModule": "",
+        "PCH": "c:\\users\\jakob\\mask game jam\\globalgamejam\\intermediate\\build\\win64\\x64\\globalgamejameditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.cpp20.h.pch",
+        "Includes": [
+            "c:\\users\\jakob\\mask game jam\\globalgamejam\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\globalgamejam\\definitions.globalgamejam.h",
+            "c:\\users\\jakob\\mask game jam\\globalgamejam\\source\\globalgamejam\\globalgamejam.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

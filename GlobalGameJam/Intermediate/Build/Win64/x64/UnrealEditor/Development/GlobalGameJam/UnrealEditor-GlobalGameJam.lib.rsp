@@ -1,0 +1,24 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-GlobalGameJam.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\GlobalGameJamEditor\Development\UnrealEd\SharedPCH.UnrealEd.Project.ValApi.Cpp20.h.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJam.init.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamCharacter.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamGameMode.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamPickUpComponent.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamProjectile.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamWeaponComponent.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJam.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamCharacter.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamGameMode.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamPickUpComponent.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamProjectile.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\GlobalGameJamWeaponComponent.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\PerModuleInline.gen.cpp.obj"
+"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\Default.rc2.res"
+/OUT:"C:\Users\jakob\Mask Game Jam\GlobalGameJam\Intermediate\Build\Win64\x64\UnrealEditor\Development\GlobalGameJam\UnrealEditor-GlobalGameJam.lib"
